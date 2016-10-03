@@ -1,0 +1,8 @@
+body
+  {background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6a/44/eb/6a44ebab78311a9e918a7bacd5e77f76.jpg");}
+.title{ font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: #4682B4; font-size: 48px; text-align: center;}
+.paragraph{text-indent: 50px}
+.storytext{font-family: lora; font-size: 21px; color: #9932CC; text-shadow: 1px 1px #000000;}
+.choices{color: #FFFFFF; text-align: center; font-size: 28px; font-family: "Lucida Bright";}
+.choices2{color: #FFFFFF; text-align: center; font-size: 28px; font-family: "Lucida Bright";}
+.navigation{text-decoration: none; color: blue;}
